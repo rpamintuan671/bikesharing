@@ -25,6 +25,7 @@ The results of highest bike checked out with short period of time between zero t
 
 
 ![Gender Breakdown](Resources/Gender%20Breakdown.png)
+
 Per pie chart majority of the bike riders overall are males.
 
 ![Trips by Weekdays per Hour](Resources/Trips%20by%20Weeday%20per%20Hour.png)
