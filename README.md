@@ -45,3 +45,8 @@ This chard mainly explains that majority of the bike subscripbers are males.
 ## Summary: 
 Overall, given the data sets of over 2 million bike users, males are dominantly the target market within a dense city area. 
 
+Additional analysis would be beneficial by :
+
+> * Comparing data for different months to determine trends across the year,
+> * Including weather data to find the correlation between the weather and the rides.
+
