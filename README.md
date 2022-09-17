@@ -1,7 +1,7 @@
 # NYC Citibike Challenge
 
 ## Overview
-The purpose of this analysis is to convince the investors that a bike0sharing program in Des Moines is a solid business proposal. 
+The purpose of this analysis is to convince the investors that a bikesharing program in Des Moines is a solid business proposal. Trip data has been collected in the city of NY from over 2 million riders of all genders. An analysis needs to be conducted whether bike sharing would work the same way in the city of Des Moines.
 
 
 ## Resources: 
