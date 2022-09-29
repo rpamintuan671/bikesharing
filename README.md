@@ -11,7 +11,7 @@ The purpose of this analysis is to convince the investors that a bikesharing pro
 > * Tools: MS Excel, Pandas, Jupyter Notebook
 
 
-An interactive Tableau Dashboard was created to provide visualization of bike-sharing proposal would be a sound investment in Des Moines as it is a success in NY city. A Tableau Dashboard can be found **[here](https://public.tableau.com/views/NYCCitibikeAnalysis_16633539473360/CitibikeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
+An interactive Tableau Dashboard was created to provide visualization of bike-sharing proposal would be a sound investment in Des Moines as it is a success in NY city. **[The Tableau Dashboard link can be found here](https://public.tableau.com/views/NYCCitibikeAnalysis_16633539473360/CitibikeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 ![NYC Citibike Dashboard](Resources/NYC%20Citibike%20Dashboard.png)
 
